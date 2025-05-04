@@ -37,7 +37,7 @@ scanf("%d",&u);
 dijkstra(G,n,u);
 return 0;
 }
- 
+  
 void dijkstra(int G[MAX][MAX],int n,int startnode)
 {
  
